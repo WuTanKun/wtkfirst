@@ -2,6 +2,6 @@ hhh
 
 ?fuck!!
 it's ok now
-good
+goods
 
-different feature2 commited!!
+same feature commited!
